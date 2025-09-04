@@ -102,9 +102,9 @@ These findings can guide future implementations of diabetes prediction systems.
 # [Project 3: Brazilian E-Commerce (Olist) Dashboard](https://github.com/sherly07yulianty/-Brazilian-E-Commerce-Olist-Dashboard/tree/main)
 
 
-![Dashboard Preview](https://github.com/sherly07yulianty/-Brazilian-E-Commerce-Olist-Dashboard/blob/main/Brazilian%20E-Commerce%20(Olist)%20Dashboard.pdf)
+![Dashboard Preview](https://github.com/sherly07yulianty/-Brazilian-E-Commerce-Olist-Dashboard/blob/main/Brazilian%20E-Commerce%20(Olist)%20Dashboard.png)
 
-This project presents a static **Power BI dashboard (PDF)** analyzing Brazilian e-commerce performance using the [Olist Public Dataset (2016–2018)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+This project presents a static **Power BI dashboard** analyzing Brazilian e-commerce performance using the [Olist Public Dataset (2016–2018)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Key Insights
 - **Total Sales:** R$13.59M from delivered orders  
