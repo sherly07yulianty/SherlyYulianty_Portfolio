@@ -28,8 +28,8 @@ This project analyzes and predicts the stock price of **BIRD.JK** using two mode
 ---
 
 ### Prediction Plots
-![MS-AR Prediction](prediksi_harga_saham_dengan_state_mape4.6.png)
-![Prophet Prediction](prediksi_harga_saham_error_baru2.png)
+![MS-AR Prediction]([prediksi_harga_saham_dengan_state_mape4.6.png](https://github.com/sherly07yulianty/Stock-Price-Modeling/blob/main/prediksi_harga_saham_dengan_state_mape4.6.png))
+![Prophet Prediction](https://github.com/sherly07yulianty/Stock-Price-Modeling/blob/main/prediksi_harga_saham_error_baru2.png)
 
 ---
 
