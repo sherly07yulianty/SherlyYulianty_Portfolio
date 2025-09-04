@@ -99,6 +99,36 @@ These findings can guide future implementations of diabetes prediction systems.
 
 ---
 
+# [Project 3: Brazilian E-Commerce (Olist) Dashboard](https://github.com/sherly07yulianty/-Brazilian-E-Commerce-Olist-Dashboard/tree/main)
+
+
+![Dashboard Preview](https://github.com/sherly07yulianty/-Brazilian-E-Commerce-Olist-Dashboard/blob/main/Brazilian%20E-Commerce%20(Olist)%20Dashboard.pdf)
+
+This project presents a static **Power BI dashboard (PDF)** analyzing Brazilian e-commerce performance using the [Olist Public Dataset (2016–2018)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+
+## Key Insights
+- **Total Sales:** R$13.59M from delivered orders  
+- **Total Delivered Orders:** 96K orders delivered  
+- **Average Lead Time:** 12.50 days from purchase to delivery  
+- **On-Time Deliveries:** 93K (93.43%) delivered on time  
+
+## Dashboard Highlights
+- **Top 20 Cities by Deliveries:** Visualized on a map (São Paulo, Rio de Janeiro, Curitiba, etc.)  
+- **Shipping Efficiency by State:** Bar chart showing delivery performance  
+- **Sales Trend:** Monthly sales trend line  
+- **On-Time vs Late Deliveries:** Donut chart breakdown  
+- **Date Slicer:** Filter for custom time periods  
+
+## Tools & Techniques
+- **Power BI Desktop** for data modeling & visualization  
+- **DAX** for calculated measures (e.g., Total Sales, Average Lead Time, On-Time Delivery Index)  
+- Data preprocessing: `orders_dataset`, `order_items_dataset`, `customers_dataset`  
+
+## Conclusion
+The dashboard reveals **sales concentration in major cities** and a **strong on-time delivery rate (93%)**, providing insights for logistics optimization and regional strategy.
+
+---
+
 © 2025 Sherly Yulianty – Data Analytics & Data Science Portfolio
 
 
