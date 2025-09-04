@@ -121,7 +121,7 @@ This project presents a static **Power BI dashboard (PDF)** analyzing Brazilian 
 
 ## Tools & Techniques
 - **Power BI Desktop** for data modeling & visualization  
-- **DAX** for calculated measures (e.g., Total Sales, Average Lead Time, On-Time Delivery Index)  
+- **DAX** for calculated measures (Total Sales, Average Lead Time, On-Time Delivery Index)  
 - Data preprocessing: `orders_dataset`, `order_items_dataset`, `customers_dataset`  
 
 ## Conclusion
