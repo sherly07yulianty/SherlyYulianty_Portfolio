@@ -1,4 +1,4 @@
-# Sherly's Portfolio
+# Sherly Yulianty – Data Analyst & Data Scientist
 A portfolio showcasing projects in Data Analytics &amp; Data Science, including data cleaning, EDA, statistical analysis, predictive modeling, and dashboards. Topics include e-commerce, and stock price prediction forecasting using Python, Excel, and Power BI.
 
 # [Project 1: Stock Price Prediction for BIRD.JK](https://github.com/sherly07yulianty/Stock-Price-Modeling)
